@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    color: beige;
+}
+
+h1 {
+    margin-bottom: 120px;
+    margin-left: 120px;
+    margin-right: 120px;
+    
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 250px;
+}
+
+header {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7 )), url("bg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+
+a#portfolio {
+    text-decoration: underline;
+    color: rgb(96, 177, 59);
+}
